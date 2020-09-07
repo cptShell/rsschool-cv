@@ -14,3 +14,10 @@ freelance projects - wherever they had the opportunity to demonstrate skills the
 Also it would be awesome if you add links to source code)
 7. Education (including courses, seminars, lectures, online learning)
 8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+
+From cpt.Shell 
+
+
+> I realize...I just copied the task condition, but it's too early for me to write about my achievements, but my ambitions are ...HUGE!!!... like my spinning blade !!! Just look at this!!!
+
+![](https://media.giphy.com/media/jOgLpo2CxhxEV4gNAJ/giphy.gif)
