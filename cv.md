@@ -17,7 +17,4 @@ Also it would be awesome if you add links to source code)
 
 From cpt.Shell 
 
-
-> I realize...I just copied the task condition, but it's too early for me to write about my achievements, but my ambitions are ...HUGE!!!... like my spinning blade !!! Just look at this!!!
-
-![](https://media.giphy.com/media/jOgLpo2CxhxEV4gNAJ/giphy.gif)
+> [You are Welcom!!! ](https://cptshell.github.io/rsschool-cv/index)
